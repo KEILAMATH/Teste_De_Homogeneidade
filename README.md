@@ -1,2 +1,4 @@
-# Teste_De_Homogeneidade
-Este arquivo traz a Teoria sobre o Teste Qui-Quadrado de Homogeneidade e aplicação do teste a um exemplo simulado. 
+
+O arquivo Homogeneidade Final.rmd  é um arquivo do tipo R Markdown que gera o arquivo Homogeneidade Final..html quando é executado pelo comando "Knit".
+
+O arquivo Homogeneidade Final.html é o relatório do estudo realizado, em formato html.
